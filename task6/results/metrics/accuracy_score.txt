@@ -1,0 +1,25 @@
+Sentiment Analysis with SVM Classifier
+=====================================
+
+Model: SVM with linear kernel, C=1.0
+
+Performance Metrics:
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+
+Confusion Matrix:
+[[100   0]
+ [  0 100]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00       100
+    Positive       1.00      1.00      1.00       100
+
+    accuracy                           1.00       200
+   macro avg       1.00      1.00      1.00       200
+weighted avg       1.00      1.00      1.00       200
+

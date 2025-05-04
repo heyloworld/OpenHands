@@ -1,0 +1,85 @@
+Recommendations for User 402
+==================================================
+
+User Information:
+  user_id: 405
+  age: 22
+  gender: F
+  occupation: healthcare
+  zip_code: 10019
+  user_idx: 402
+  num_ratings: 737
+  avg_rating: 1.8344640434192674
+  min_rating: 1
+  max_rating: 5
+
+User's Top Rated Movies:
+  1. One Flew Over the Cuckoo's Nest (1975) - Rating: 5
+  2. American President, The (1995) - Rating: 5
+  3. Houseguest (1994) - Rating: 5
+  4. Indiana Jones and the Last Crusade (1989) - Rating: 5
+  5. Schindler's List (1993) - Rating: 5
+
+NCF Recommendations:
+  1. Rock, The (1996)
+     Predicted Rating: 3.61
+     Average Rating: 3.69 (378 ratings)
+  2. It's a Wonderful Life (1946)
+     Predicted Rating: 3.51
+     Average Rating: 4.12 (231 ratings)
+  3. Independence Day (ID4) (1996)
+     Predicted Rating: 3.47
+     Average Rating: 3.44 (429 ratings)
+  4. Time to Kill, A (1996)
+     Predicted Rating: 3.43
+     Average Rating: 3.69 (232 ratings)
+  5. Jerry Maguire (1996)
+     Predicted Rating: 3.38
+     Average Rating: 3.71 (384 ratings)
+  6. Star Trek: First Contact (1996)
+     Predicted Rating: 3.36
+     Average Rating: 3.66 (365 ratings)
+  7. Phenomenon (1996)
+     Predicted Rating: 3.30
+     Average Rating: 3.56 (244 ratings)
+  8. Air Force One (1997)
+     Predicted Rating: 3.26
+     Average Rating: 3.63 (431 ratings)
+  9. Conspiracy Theory (1997)
+     Predicted Rating: 3.24
+     Average Rating: 3.42 (295 ratings)
+  10. Mission: Impossible (1996)
+     Predicted Rating: 3.19
+     Average Rating: 3.31 (344 ratings)
+
+Matrix Factorization Recommendations:
+  1. Fargo (1996)
+     Predicted Rating: 3.65
+     Average Rating: 4.16 (508 ratings)
+  2. Toy Story (1995)
+     Predicted Rating: 3.57
+     Average Rating: 3.88 (452 ratings)
+  3. Casablanca (1942)
+     Predicted Rating: 3.43
+     Average Rating: 4.46 (243 ratings)
+  4. Trainspotting (1996)
+     Predicted Rating: 3.42
+     Average Rating: 3.88 (250 ratings)
+  5. Contact (1997)
+     Predicted Rating: 3.40
+     Average Rating: 3.80 (509 ratings)
+  6. Dead Man Walking (1995)
+     Predicted Rating: 3.40
+     Average Rating: 3.90 (299 ratings)
+  7. English Patient, The (1996)
+     Predicted Rating: 3.39
+     Average Rating: 3.66 (481 ratings)
+  8. Citizen Kane (1941)
+     Predicted Rating: 3.39
+     Average Rating: 4.29 (198 ratings)
+  9. It's a Wonderful Life (1946)
+     Predicted Rating: 3.38
+     Average Rating: 4.12 (231 ratings)
+  10. Air Force One (1997)
+     Predicted Rating: 3.38
+     Average Rating: 3.63 (431 ratings)

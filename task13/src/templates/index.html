@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Neural Style Transfer Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        .image-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            margin: 10px;
+            flex: 1;
+            min-width: 300px;
+        }
+        .image-card h2 {
+            margin-top: 0;
+            color: #444;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+        .results-container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .results-container h2 {
+            margin-top: 0;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+    <h1>Neural Style Transfer Results</h1>
+    
+    <div class="image-container">
+        <div class="image-card">
+            <h2>Content Image</h2>
+            <img src="/images/content.jpg" alt="Content Image">
+        </div>
+        
+        <div class="image-card">
+            <h2>Style Image</h2>
+            <img src="/images/style.jpg" alt="Style Image">
+        </div>
+        
+        <div class="image-card">
+            <h2>Stylized Image</h2>
+            <img src="/images/stylized.jpg" alt="Stylized Image">
+        </div>
+    </div>
+    
+    <div class="results-container">
+        <h2>Intermediate Results</h2>
+        <img src="/images/intermediate_results.png" alt="Intermediate Results">
+    </div>
+    
+    <div class="results-container">
+        <h2>Loss History</h2>
+        <img src="/images/loss_history.png" alt="Loss History">
+    </div>
+</body>
+</html>

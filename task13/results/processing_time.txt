@@ -1,0 +1,4 @@
+Style transfer processing time: 93.42 seconds
+Number of steps: 100
+Content weight: 1
+Style weight: 10000000.0

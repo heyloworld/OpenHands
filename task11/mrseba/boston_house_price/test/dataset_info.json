@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "MEDINC": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "HOUSEAGE": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "AVEROOMS": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "AVEBEDRMS": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "POPULATION": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "AVEOCCUP": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "LATITUDE": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "LONGITUDE": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "PRICE": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

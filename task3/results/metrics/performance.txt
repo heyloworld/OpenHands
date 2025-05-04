@@ -1,0 +1,23 @@
+Naive Bayes Classifier Evaluation Report
+=======================================
+
+Model Parameters:
+- Alpha (smoothing): 1.0
+- Feature type: TF-IDF
+
+Performance Metrics:
+- Accuracy: 0.7863
+
+Classification Report:
+                        precision    recall  f1-score   support
+
+           alt.atheism       0.88      0.41      0.56       319
+         comp.graphics       0.87      0.91      0.89       389
+               sci.med       0.92      0.81      0.86       396
+soc.religion.christian       0.63      0.94      0.75       398
+
+              accuracy                           0.79      1502
+             macro avg       0.82      0.77      0.77      1502
+          weighted avg       0.82      0.79      0.78      1502
+
+Generated on: 2025-05-04 19:26:28

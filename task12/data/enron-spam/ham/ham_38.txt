@@ -1,0 +1,10 @@
+Subject: Meeting reminder
+    
+Hi team,
+
+Just a reminder that we have a meeting scheduled for tomorrow at 10 AM.
+Please bring your project updates and be prepared to discuss the quarterly goals.
+
+Best regards,
+John
+P.S. Meeting room has been changed to A-963.

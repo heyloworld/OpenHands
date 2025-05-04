@@ -1,0 +1,14 @@
+House Price Prediction Metrics
+============================
+
+Cross-Validation Metrics:
+  Mean Squared Error (MSE): 0.5193
+  Root Mean Squared Error (RMSE): 0.7206
+  Mean Absolute Error (MAE): 0.5291
+  R² Score: 0.6115
+
+Test Set Metrics:
+  Mean Squared Error (MSE): 0.5559
+  Root Mean Squared Error (RMSE): 0.7456
+  Mean Absolute Error (MAE): 0.5332
+  R² Score: 0.5758

@@ -1,0 +1,72 @@
+[
+    {
+        "episode": 1,
+        "score": 10.0,
+        "average_score": 10.0,
+        "epsilon": 0.995,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 2,
+        "score": 20.0,
+        "average_score": 15.0,
+        "epsilon": 0.990025,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 3,
+        "score": 34.0,
+        "average_score": 21.333333333333332,
+        "epsilon": 0.985074875,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 4,
+        "score": 10.0,
+        "average_score": 18.5,
+        "epsilon": 0.9801495006250001,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 5,
+        "score": 21.0,
+        "average_score": 19.0,
+        "epsilon": 0.9752487531218751,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 6,
+        "score": 15.0,
+        "average_score": 18.333333333333332,
+        "epsilon": 0.9703725093562657,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 7,
+        "score": 37.0,
+        "average_score": 21.0,
+        "epsilon": 0.9655206468094844,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 8,
+        "score": 50.0,
+        "average_score": 24.625,
+        "epsilon": 0.960693043575437,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 9,
+        "score": 25.0,
+        "average_score": 24.666666666666668,
+        "epsilon": 0.9558895783575597,
+        "timestamp": "2025-05-04 20:00:49"
+    },
+    {
+        "episode": 10,
+        "score": 21.0,
+        "average_score": 24.3,
+        "epsilon": 0.9511101304657719,
+        "timestamp": "2025-05-04 20:00:49"
+    }
+]
